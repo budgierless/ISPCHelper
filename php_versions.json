@@ -2,8 +2,8 @@
   "versions": [
     {
       "name": "7.1",
-      "version": "7.1.7",
-      "downloadurl": "http://php.net/distributions/php-7.1.7.tar.gz"
+      "version": "7.1.8",
+      "downloadurl": "http://php.net/distributions/php-7.1.8.tar.gz"
     },
     {
       "name": "7.0",
@@ -24,6 +24,16 @@
       "name": "5.4",
       "version": "5.4.45",
       "downloadurl": "http://php.net/distributions/php-5.4.45.tar.gz"
+    },
+    {
+      "name": "5.3",
+      "version": "5.3.29",
+      "downloadurl": "http://php.net/distributions/php-5.3.29.tar.gz"
+    },
+    {
+      "name": "5.2",
+      "version": "5.2.17",
+      "downloadurl": "http://museum.php.net/php5/php-5.2.17.tar.gz"
     }
   ]
 }
