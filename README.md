@@ -9,7 +9,7 @@ This script is compatible with python 2.
 
 # How to use
 In shell run: 
-sudo- apt-get install libxml2-dev
+sudo apt-get install libxml2-dev
 
 Copy and paste this in a shell:
 ```
