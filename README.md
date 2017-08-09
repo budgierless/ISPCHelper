@@ -8,6 +8,9 @@ Testing to hopyfully work successfully on Ubuntu server 16.04+.
 This script is compatible with python 2.
 
 # How to use
+In shell run: 
+sudo- apt-get install libxml2-dev
+
 Copy and paste this in a shell:
 ```
 wget https://raw.githubusercontent.com/budgierless/ISPCHelper/master/ISPCHelper.py; sudo python ISPCHelper.py;
